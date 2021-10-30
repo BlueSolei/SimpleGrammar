@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "antlr4.generation": {
+    "mode": "external",
+    "outputDir": "src/main/cpp",
+    "language": "Cpp",
+    "listeners": false,
+    "visitors": true
+  },
+}
